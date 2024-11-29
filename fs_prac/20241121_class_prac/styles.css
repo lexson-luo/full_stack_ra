@@ -28,7 +28,7 @@ nav {
 #hero_section {
     align-items: center;
     justify-content: space-evenly;
-    height: 80vh;
+    height: 75vh;
     display: flex;
     background-color: blanchedalmond;
 }
@@ -41,7 +41,7 @@ img {
 footer {
     background-color: rgb(27, 216, 207);
     display: flex;
-    height: 20vh;
+    height: 40px;
 }
 
 .footer_test {
